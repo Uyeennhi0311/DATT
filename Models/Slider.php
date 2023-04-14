@@ -8,5 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Slider extends Model
 {
     use HasFactory;
-    protected $table='ntt_slider';
+    protected $table='db_slider';
 }

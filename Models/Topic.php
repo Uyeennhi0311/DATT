@@ -8,5 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Topic extends Model
 {
     use HasFactory;
-    protected $table='ntt_topic';
+    protected $table='db_topic';
 }

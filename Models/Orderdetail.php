@@ -8,5 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Orderdetail extends Model
 {
     use HasFactory;
-    protected $table='ntt_orderdetail';
+    protected $table='db_orderdetail';
 }

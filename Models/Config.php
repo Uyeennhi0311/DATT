@@ -8,5 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Config extends Model
 {
     use HasFactory;
-    protected $table='ntt_config';
+    protected $table='db_config';
 }

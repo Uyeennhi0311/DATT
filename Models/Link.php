@@ -8,6 +8,6 @@ use Illuminate\Database\Eloquent\Model;
 class Link extends Model
 {
     use HasFactory;
-    protected $table='ntt_link';
+    protected $table = 'db_link';
     public $timestamps = false;
 }

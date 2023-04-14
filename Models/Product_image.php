@@ -8,5 +8,5 @@ use Illuminate\Database\Eloquent\Model;
 class Product_image extends Model
 {
     use HasFactory;
-    protected $table='ntt_product_image';
+    protected $table='db_product_image';
 }
